@@ -6,3 +6,9 @@ int sum (int a, int b){
 	sum = a + b;
 	return sum;
 }
+
+int sub(int a, int b){
+	int diff;
+	diff = a - b;
+	return diff;
+}
